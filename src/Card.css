@@ -1,0 +1,30 @@
+.card {
+  margin: auto;
+  background-color: aquamarine;
+  color: black;
+  border-radius: 7px;
+  padding: 2rem;
+  margin-top: 10%;
+  border: 1px solid rgb(2, 2, 20);
+  box-shadow: 3px 3px black;
+}
+hr {
+  color: black;
+  background-color: black;
+}
+p {
+  font: 1.5em sans-serif;
+}
+input[type="button"] {
+  background-color: rgb(23, 113, 155);
+  height: 35px;
+  width: 60px;
+  color: aquamarine;
+}
+input {
+  padding: 0.1rem;
+  margin: 0.3rem;
+  height: 25px;
+  border-radius: 7px;
+  box-shadow: 1px 1px black;
+}
